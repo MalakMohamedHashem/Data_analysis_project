@@ -48,7 +48,17 @@ The main objective of the project is to assist HR departments in:
 - Analyze performance trends across different teams
 - Identify potential training or development needs
 
----
+## How to Use
+1. Clone the repository:
+2. Install required packages (example):
+3. Open `analysis.ipynb` and run the notebook.
+
+## Author
+Malak Hashem  
+AI & Data Science Enthusiast
+
+## License
+This project is licensed under the MIT License.
 
 > 💡 This project highlights how combining scattered employee data into one unified dataset can empower HR professionals to make smarter and more informed decisions.
 

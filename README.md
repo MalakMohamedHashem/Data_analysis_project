@@ -1,4 +1,3 @@
-# HR_Data-analysis_project
 # Employee Data Analysis Project
 
 This project was done in collaboration with DEPI as part of a data analysis initiative. The core idea revolves around analyzing employee-related data to provide insights that can help Human Resources (HR) teams improve decision-making, enhance employee performance, and ultimately contribute to the success of the company.

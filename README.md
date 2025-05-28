@@ -1,5 +1,5 @@
 # Employee Data Analysis Project
-This project was done in collaboration with DEPI as part of the Data Analytics - Data Analyst Specialist track. It focuses on analyzing employee-related data to generate actionable insights that support Human Resources (HR) teams in making informed decisions, enhancing employee performance, and driving overall organizational success
+This project was done in collaboration with **DEPI** as part of the **Data Analytics - Data Analyst Specialist** track. It focuses on analyzing employee-related data to generate actionable insights that support Human Resources (HR) teams in making informed decisions, enhancing employee performance, and driving overall organizational success
 ## 📁 Project Structure
 
 The original data was provided in multiple separate files, all located in the `orgn.files` folder. Each file contained different types of information related to employees (e.g., demographics, performance, attendance, etc.).
